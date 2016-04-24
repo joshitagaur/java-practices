@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Exponent</label>
+	</settings>
+	<users>
+		<user>
+			<path>Exponent.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Exponent.jcp</path>
+		</project>
+	</projects>
+</workspace>

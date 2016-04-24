@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MTDemo2</label>
+	</settings>
+	<users>
+		<user>
+			<path>MTDemo2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MTDemo2.jcp</path>
+		</project>
+	</projects>
+</workspace>

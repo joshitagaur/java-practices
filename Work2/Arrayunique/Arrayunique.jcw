@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Arrayunique</label>
+	</settings>
+	<users>
+		<user>
+			<path>Arrayunique.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Arrayunique.jcp</path>
+		</project>
+	</projects>
+</workspace>

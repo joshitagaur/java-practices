@@ -1,0 +1,3 @@
+C:\Java\Work\StaticTextDemo\MyFrame.java
+C:\Java\Work\StaticTextDemo\MyWindowAdapter.java
+C:\Java\Work\StaticTextDemo\StaticTextDemo.java

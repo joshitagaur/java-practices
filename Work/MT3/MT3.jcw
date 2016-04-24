@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MT3</label>
+	</settings>
+	<users>
+		<user>
+			<path>MT3.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MT3.jcp</path>
+		</project>
+	</projects>
+</workspace>

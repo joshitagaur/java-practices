@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SumSingleDigit</label>
+	</settings>
+	<users>
+		<user>
+			<path>SumSingleDigit.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SumSingleDigit.jcp</path>
+		</project>
+	</projects>
+</workspace>

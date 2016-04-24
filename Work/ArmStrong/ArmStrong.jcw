@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ArmStrong</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArmStrong.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArmStrong.jcp</path>
+		</project>
+	</projects>
+</workspace>

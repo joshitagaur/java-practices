@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MeterCentimeter</label>
+	</settings>
+	<users>
+		<user>
+			<path>MeterCentimeter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MeterCentimeter.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Remove_Space</label>
+	</settings>
+	<users>
+		<user>
+			<path>Remove_Space.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Remove_Space.jcp</path>
+		</project>
+	</projects>
+</workspace>

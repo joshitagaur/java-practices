@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ReduceToSingleDigit</label>
+	</settings>
+	<users>
+		<user>
+			<path>ReduceToSingleDigit.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ReduceToSingleDigit.jcp</path>
+		</project>
+	</projects>
+</workspace>

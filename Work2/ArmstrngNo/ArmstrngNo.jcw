@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ArmstrngNo</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArmstrngNo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArmstrngNo.jcp</path>
+		</project>
+	</projects>
+</workspace>

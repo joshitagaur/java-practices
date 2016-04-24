@@ -1,0 +1,4 @@
+C:\Java\Work\MyEditor\MyDialog.java
+C:\Java\Work\MyEditor\MyEditor.java
+C:\Java\Work\MyEditor\MyFrame.java
+C:\Java\Work\MyEditor\MyWindowAdapter.java

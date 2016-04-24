@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>UniqueInput</label>
+	</settings>
+	<users>
+		<user>
+			<path>UniqueInput.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>UniqueInput.jcp</path>
+		</project>
+	</projects>
+</workspace>

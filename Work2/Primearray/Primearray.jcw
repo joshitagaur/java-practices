@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Primearray</label>
+	</settings>
+	<users>
+		<user>
+			<path>Primearray.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Primearray.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,9 @@
+-> Private members are only accesible within class.
+-> To differentiate private members from those defined inside a method we use the keyword this.
+   for eg. Sharma ji ki guddan.
+-> Constructer always exist.
+-> Static is called before main.
+-> Static is that thing that is common for all while interface is diff.
+   for eg. in a class students have different bags, books, pen are diff for each student but blackboard is common for all
+           therefore blackboard is static while books etc are interfaces.
+-> to declare any method or variable static we put the keyword static before it.

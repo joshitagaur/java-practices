@@ -1,0 +1,5 @@
+C:\Java\Work\InterfaceDemo\Employee.java
+C:\Java\Work\InterfaceDemo\InterfaceDemo.java
+C:\Java\Work\InterfaceDemo\Labour.java
+C:\Java\Work\InterfaceDemo\Salary.java
+C:\Java\Work\InterfaceDemo\Staff.java

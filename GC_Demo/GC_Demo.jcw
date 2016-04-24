@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>GC_Demo</label>
+	</settings>
+	<users>
+		<user>
+			<path>GC_Demo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GC_Demo.jcp</path>
+		</project>
+	</projects>
+</workspace>

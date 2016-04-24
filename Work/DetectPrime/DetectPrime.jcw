@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>DetectPrime</label>
+	</settings>
+	<users>
+		<user>
+			<path>DetectPrime.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>DetectPrime.jcp</path>
+		</project>
+	</projects>
+</workspace>

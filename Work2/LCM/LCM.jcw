@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>LCM</label>
+	</settings>
+	<users>
+		<user>
+			<path>LCM.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>LCM.jcp</path>
+		</project>
+	</projects>
+</workspace>

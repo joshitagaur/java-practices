@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Exception2</label>
+	</settings>
+	<users>
+		<user>
+			<path>Exception2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Exception2.jcp</path>
+		</project>
+	</projects>
+</workspace>

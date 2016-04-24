@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ClassAge</label>
+	</settings>
+	<users>
+		<user>
+			<path>ClassAge.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ClassAge.jcp</path>
+		</project>
+	</projects>
+</workspace>

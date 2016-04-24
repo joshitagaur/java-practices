@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FDemo1</label>
+	</settings>
+	<users>
+		<user>
+			<path>FDemo1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FDemo1.jcp</path>
+		</project>
+	</projects>
+</workspace>

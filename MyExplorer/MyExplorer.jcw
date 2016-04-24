@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MyExplorer</label>
+	</settings>
+	<users>
+		<user>
+			<path>MyExplorer.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MyExplorer.jcp</path>
+		</project>
+	</projects>
+</workspace>

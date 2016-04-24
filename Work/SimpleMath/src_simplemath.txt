@@ -1,0 +1,3 @@
+C:\Java\Work\SimpleMath\MyFrame.java
+C:\Java\Work\SimpleMath\MyWindowAdapter.java
+C:\Java\Work\SimpleMath\SimpleMath.java

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Distance</label>
+	</settings>
+	<users>
+		<user>
+			<path>Distance.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Distance.jcp</path>
+		</project>
+	</projects>
+</workspace>

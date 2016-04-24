@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>LBDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>LBDemo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>LBDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>

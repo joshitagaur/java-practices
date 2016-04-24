@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>DigitSum</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>DigitSum</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Arrayunique</path>
+			</folderitem>
+			<folderitem>
+				<path>DetectPrime</path>
+			</folderitem>
+			<folderitem>
+				<path>hcf</path>
+			</folderitem>
+			<folderitem>
+				<path>LCM</path>
+			</folderitem>
+			<folderitem>
+				<path>Primearray</path>
+			</folderitem>
+			<folderitem>
+				<path>Test</path>
+			</folderitem>
+			<folderitem>
+				<path>UniqueInput</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>SumOfDigits\SumOfDigits.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>DigitSum.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

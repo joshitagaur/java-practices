@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ImageExplorer</label>
+	</settings>
+	<users>
+		<user>
+			<path>ImageExplorer.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ImageExplorer.jcp</path>
+		</project>
+	</projects>
+</workspace>

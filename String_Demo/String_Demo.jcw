@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>String_Demo</label>
+	</settings>
+	<users>
+		<user>
+			<path>String_Demo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>String_Demo.jcp</path>
+		</project>
+	</projects>
+</workspace>

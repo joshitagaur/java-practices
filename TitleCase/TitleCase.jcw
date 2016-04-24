@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TitleCase</label>
+	</settings>
+	<users>
+		<user>
+			<path>TitleCase.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TitleCase.jcp</path>
+		</project>
+	</projects>
+</workspace>

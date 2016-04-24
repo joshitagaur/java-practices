@@ -1,0 +1,7 @@
+C:\Java\Work\MyPaint\Line.java
+C:\Java\Work\MyPaint\MyFrame.java
+C:\Java\Work\MyPaint\MyPaint.java
+C:\Java\Work\MyPaint\MyWindowAdapter.java
+C:\Java\Work\MyPaint\Oval.java
+C:\Java\Work\MyPaint\Rectangle.java
+C:\Java\Work\MyPaint\Shape.java

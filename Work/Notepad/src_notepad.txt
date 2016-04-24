@@ -1,0 +1,4 @@
+C:\Java\Work\Notepad\MyDialog.java
+C:\Java\Work\Notepad\MyFrame.java
+C:\Java\Work\Notepad\MyWindowAdapter.java
+C:\Java\Work\Notepad\Notepad.java

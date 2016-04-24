@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>StaticTextDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>StaticTextDemo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>StaticTextDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>

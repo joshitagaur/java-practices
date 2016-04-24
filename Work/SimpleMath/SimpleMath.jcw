@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SimpleMath</label>
+	</settings>
+	<users>
+		<user>
+			<path>SimpleMath.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SimpleMath.jcp</path>
+		</project>
+	</projects>
+</workspace>

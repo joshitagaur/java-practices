@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SimpleCalc</label>
+	</settings>
+	<users>
+		<user>
+			<path>SimpleCalc.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SimpleCalc.jcp</path>
+		</project>
+	</projects>
+</workspace>

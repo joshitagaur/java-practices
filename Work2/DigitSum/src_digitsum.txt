@@ -1,0 +1,8 @@
+C:\Java\Work\DigitSum.java
+C:\Java\Work\Arrayunique\Arrayunique.java
+C:\Java\Work\DetectPrime\DetectPrime.java
+C:\Java\Work\hcf\hcf.java
+C:\Java\Work\LCM\LCM.java
+C:\Java\Work\Primearray\Primearray.java
+C:\Java\Work\Test\Test.java
+C:\Java\Work\UniqueInput\UniqueInput.java

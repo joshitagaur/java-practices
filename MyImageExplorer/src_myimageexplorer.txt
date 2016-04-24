@@ -1,0 +1,4 @@
+C:\Java\Work\MyImageExplorer\MyCanvas.java
+C:\Java\Work\MyImageExplorer\MyFrame.java
+C:\Java\Work\MyImageExplorer\MyImageExplorer.java
+C:\Java\Work\MyImageExplorer\MyWindoAdapter.java

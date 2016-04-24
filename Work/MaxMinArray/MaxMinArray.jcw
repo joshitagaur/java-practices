@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MaxMinArray</label>
+	</settings>
+	<users>
+		<user>
+			<path>MaxMinArray.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MaxMinArray.jcp</path>
+		</project>
+	</projects>
+</workspace>

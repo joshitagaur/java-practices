@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Airline</label>
+	</settings>
+	<users>
+		<user>
+			<path>Airline.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Airline.jcp</path>
+		</project>
+	</projects>
+</workspace>

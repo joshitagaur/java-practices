@@ -1,0 +1,20 @@
+What is an applet ?
+An applet is a java program and like other java programs it just can't execute on its own. It needs the support of JRE to execute.
+The main difference between an applet and other java program is that in case of applet the JRE is provided by the browser plugin.
+The browser which contains JRE as plugin is called as java enabled browser. Now a days all the browsers are java enabled.
+
+Therefore we say that applet is a java program that needs to be embeded in an html document. When this html document is rendered by 
+the java enabled, browser, then JRE plugin of the browser executes that java program.
+
+Every applet is a public class created by extending the inbuilt class called as Applet.
+The applet does not have any main() method. The life cycle of the applet contains the following five methods...
+1. public void init();
+2. public void start();
+3. public void stop();
+4. public void paint(Graphics g);
+5. public void destroy();
+
+init and destroy are called only for once in the entire lifecycle of the program. start, stop and paint() may get called several times
+in the lifecycle of the applet.
+
+If we don't have any java enabled browser, then their is a utility called as appletviewer which may be used to run the applet.

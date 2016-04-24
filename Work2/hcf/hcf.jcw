@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>hcf</label>
+	</settings>
+	<users>
+		<user>
+			<path>hcf.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>hcf.jcp</path>
+		</project>
+	</projects>
+</workspace>

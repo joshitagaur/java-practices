@@ -1,0 +1,5 @@
+C:\Java\Work\MyDraw\Line.java
+C:\Java\Work\MyDraw\MyDraw.java
+C:\Java\Work\MyDraw\MyFrame.java
+C:\Java\Work\MyDraw\MyWindowAdapter.java
+C:\Java\Work\MyDraw\Shape.java
